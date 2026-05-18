@@ -1,0 +1,19 @@
+.send{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 3px solid;
+    margin:175px;
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px rgba(247, 238, 58, 0.5);
+    box-shadow: 5px 5px 10px orangered;
+
+}
+.send form{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.send input{
+    margin: 10px;
+}
